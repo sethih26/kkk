@@ -397,4 +397,4 @@ echo "transfer.js script created."
 echo "Transferring tokens..."
 npx hardhat run scripts/transfer.js --network swisstronik
 echo "Tokens transferred."
-echo "Done! Subscribe: https://t.me/feature_earning"
+echo "Done Boiii! Subscribe To: https://t.me/kakashi_airdrops"
